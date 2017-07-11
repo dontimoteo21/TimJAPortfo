@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/dontimoteo21/TimJAPortfo#readme",
   "dependencies": {
-    "babel-preset-env": "^1.6.0"
+    "babel-preset-env": "^1.6.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
   }
 }
