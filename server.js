@@ -3,7 +3,7 @@ var bodyParser = require('body-parser');
 
 var app = module.exports = express();
 
-app.use(express.static(__dirname + './../dist'));
+app.use(express.static(__dirname + ''));
 app.use(bodyParser.json());
 
 var port = 3009;
